@@ -1,0 +1,114 @@
+# -----------------------
+# DO NOT EDIT !!!
+# THIS FILE HAS BEEN GENERATED AUTOMATICALLY
+# DO YOUR MODIFICATION IN THE 'input_files' DIRECTORY INSTEAD
+# -----------------------
+
+# ./input_files/1-runtime.yml
+# -----------------------
+runtime-0.6.3:
+  Category: runtimes
+  Channel: stable
+  Date: '1692227264'
+
+# ./input_files/2-winebridge.yml
+# -----------------------
+winebridge-1.2.0:
+  Category: winebridge
+  Channel: stable
+
+# ./input_files/3-soda.yml
+# -----------------------
+soda-11.0-38-experimental:
+  Category: runners
+  Sub-category: wine
+  Channel: unstable
+  Date: '1794151330'
+  Platforms:
+  - linux
+  Architectures:
+  - x86_64
+  - aarch64
+soda-mcsoda-11.0-4:
+  Category: runners
+  Sub-category: wine
+  Channel: stable
+  Date: '1786812163'
+
+# ./input_files/4-caffe.yml
+# -----------------------
+caffe-10.0:
+  Category: runners
+  Sub-category: wine
+  Channel: stable
+  Date: '1786284923'
+
+# ./input_files/5-wine-GE-Proton.yml
+# -----------------------
+
+# ./input_files/6-lutris.yml
+# -----------------------
+lutris-7.2-2:
+  Category: runners
+  Sub-category: wine
+  Channel: stable
+
+# ./input_files/7-lutris-ge.yml
+# -----------------------
+
+# ./input_files/8-vaniglia.yml
+# -----------------------
+
+# ./input_files/9-vaniglia-cx.yml
+# -----------------------
+vaniglia-21.2.0-cx:
+  Category: runners
+  Sub-category: wine
+  Channel: unstable
+
+# ./input_files/10-GE-Proton.yml
+# -----------------------
+
+# ./input_files/11-kron4ek.yml
+# -----------------------
+kron4ek-wine-11.21-amd64:
+  Category: runners
+  Sub-category: wine
+  Channel: stable
+  Date: '1793475598'
+kron4ek-wine-11.21-staging-amd64:
+  Category: runners
+  Sub-category: wine
+  Channel: stable
+  Date: '1793475611'
+kron4ek-wine-11.21-staging-tkg-amd64:
+  Category: runners
+  Sub-category: wine
+  Channel: stable
+  Date: '1793475624'
+
+# ./input_files/13-vkd3d-proton.yml
+# -----------------------
+vkd3d-proton-3.1:
+  Category: vkd3d
+  Channel: stable
+  Date: '1793182781'
+
+# ./input_files/14-dxvk.yml
+# -----------------------
+dxvk-3.1.1-3-23b07e9:
+  Category: dxvk
+  Channel: unstable
+  Date: '1793446480'
+
+# ./input_files/15-dxvk-async.yml
+# -----------------------
+
+# ./input_files/18-proton-EM.yml
+# -----------------------
+
+# ./input_files/19-proton-cachyos.yml
+# -----------------------
+
+# ./input_files/21-protosoda.yml
+# -----------------------

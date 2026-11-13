@@ -1,0 +1,18 @@
+---  
+caffe-6.23:
+  Category: runners
+  Sub-category: wine
+  Channel: stable
+  
+vkd3d-v2.5:
+  Category: vkd3d
+  Channel: stable
+  
+dxvk-1.9:
+  Category: dxvk
+  Channel: stable
+
+lutris-ge-7.14-1-GE-LoL:
+  Category: runners
+  Sub-category: wine
+  Channel: stable

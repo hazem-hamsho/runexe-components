@@ -1,0 +1,10 @@
+Name: runtime-0.6.3
+Provider: hazem-hamsho
+Maintainer: hazem-hamsho
+Channel: stable
+File:
+- file_name: runtime-0.6.3.tar.gz
+  url: https://github.com/hazem-hamsho/runexe-components/releases/download/runtime-0.6.3/runtime-0.6.3.tar.gz
+  file_checksum: d42e27101dcc1bb880b6e7d4fb532c21
+  file_size: 17003974
+  rename: runtime-0.6.3.tar.gz

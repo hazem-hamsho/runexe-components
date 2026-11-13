@@ -1,0 +1,15 @@
+soda-11.0-38-experimental:
+  Category: runners
+  Sub-category: wine
+  Channel: unstable
+  Date: '1794151330'
+  Platforms:
+  - linux
+  Architectures:
+  - x86_64
+  - aarch64
+soda-mcsoda-11.0-4:
+  Category: runners
+  Sub-category: wine
+  Channel: stable
+  Date: '1786812163'

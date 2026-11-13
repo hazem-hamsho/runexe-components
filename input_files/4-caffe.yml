@@ -1,0 +1,5 @@
+caffe-10.0:
+  Category: runners
+  Sub-category: wine
+  Channel: stable
+  Date: '1786284923'
